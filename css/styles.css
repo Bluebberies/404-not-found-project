@@ -124,4 +124,8 @@ color: #BDBDBD;
   main{
     display: block;
   }
+
+  .main--content{
+    margin-right: 35px;
+  }
 }
